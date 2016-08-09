@@ -1,0 +1,12 @@
+h1 { 
+   font-family : Lobster;
+   color : #366ece; 
+   font-size : 60px;
+  }
+#description {
+   font-family : MonoSpace; 
+}
+body { 
+  font-family : MonoSpace; 
+  font-size : 16px; 
+}
